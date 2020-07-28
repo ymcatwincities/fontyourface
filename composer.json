@@ -1,5 +1,5 @@
 {
-  "name": "drupal/fontyourface",
+  "name": "ymcatwincities/fontyourface",
   "type": "drupal-module",
   "description": "Web font management tools.",
   "keywords": ["Drupal"],
