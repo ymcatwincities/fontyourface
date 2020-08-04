@@ -29,6 +29,10 @@ use Drupal\Core\Config\Entity\ConfigEntityBase;
  *     "uuid" = "uuid",
  *     "font_family" = "font_family"
  *   },
+ *   config_export = {
+ *     "id",
+ *     "label"
+ *   },
  *   links = {
  *     "canonical" = "/admin/appearance/font/local_font_config_entity/{local_font_config_entity}",
  *     "add-form" = "/admin/appearance/font/local_font_config_entity/add",
