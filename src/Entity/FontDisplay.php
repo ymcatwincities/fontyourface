@@ -35,6 +35,16 @@ use Drupal\fontyourface\FontDisplayInterface;
  *     "selectors" = "selectors",
  *     "theme" = "theme"
  *   },
+ *   config_export = {
+ *     "id",
+ *     "label",
+ *     "font_url",
+ *     "style",
+ *     "weight",
+ *     "fallback",
+ *     "selectors",
+ *     "theme"
+ *   },
  *   links = {
  *     "add-form" = "/admin/appearance/font/font_display/add",
  *     "edit-form" = "/admin/appearance/font/font_display/{font_display}/edit",
